@@ -2,7 +2,7 @@
   <br>
   <img src="./RedundCave.png" alt="RedundCave logo" title="RedundCave logo" width="200"></a>
   <br>
-  RedundCave : United in Protecting Every Bit.
+  United in Protecting Every Bit.
   <br>
   <p align="center" style="font-size: 2.1rem;">溶洞 : 共同守护每一比特.</p>
 </h1>
