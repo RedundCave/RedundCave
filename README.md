@@ -4,7 +4,7 @@
   <br>
   United in Protecting Every Bit.
   <br>
-  <p align="center" style="font-size: 2.1rem;">溶洞 : 共同守护每一个比特.</p>
+  <p align="center" style="font-size: 2.1rem;">溶洞 : 共同守护每一位比特.</p>
 </h1>
 
 <p align="center" style="font-size: 1.1rem;">Peer-to-Peer Heterogeneous Redundancy Storage</p>
