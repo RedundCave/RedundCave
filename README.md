@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="./RedundCave.png" alt="Kubo logo" title="RedundCave logo" width="200"></a>
+  <img src="./RedundCave.png" alt="RedundCave logo" title="RedundCave logo" width="200"></a>
   <br>
   RedundCave : United in Protecting Every Bit.
   <br>
