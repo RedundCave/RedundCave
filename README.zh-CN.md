@@ -17,4 +17,4 @@
 
 ## Documentation
 
-- [RedundCave Whitepaper](docs/WhitePaper_zh-CN)
+- [RedundCave Whitepaper](docs/WhitePaper_zh-CN.md)

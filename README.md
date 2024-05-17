@@ -18,4 +18,4 @@ The “RedundCave” project aims to fully harness the potential of peer-to-peer
 
 ## Documentation
 
-- [RedundCave Whitepaper](docs/WhitePaper_zh-CN)
+- [RedundCave Whitepaper](docs/WhitePaper_zh-CN.md)
