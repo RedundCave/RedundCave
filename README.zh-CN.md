@@ -2,14 +2,16 @@
   <br>
   <img src="./RedundCave.png" alt="Kubo logo" title="RedundCave logo" width="200"></a>
   <br>
-  溶洞 : 共同守护每一比特.
+  RedundCave : United in Protecting Every Bit.
   <br>
+  <p align="center" style="font-size: 2.1rem;">溶洞 : 共同守护每一比特.</p>
 </h1>
 
 <p align="center" style="font-size: 1.1rem;">Peer-to-Peer Heterogeneous Redundancy Storage</p>
 
-
 <hr />
+
+[English](README.md) | 中文
 
 ## What is RedundCave?
 

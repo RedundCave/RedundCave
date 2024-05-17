@@ -9,8 +9,9 @@
 
 <p align="center" style="font-size: 1.1rem;">Peer-to-Peer Heterogeneous Redundancy Storage</p>
 
-
 <hr />
+
+English | [中文](README.zh-CN.md)
 
 ## What is RedundCave?
 
